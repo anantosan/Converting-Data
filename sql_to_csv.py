@@ -6,7 +6,7 @@ dbku=mysql.connector.connect(
     host= 'localhost',
     port= 3306,
     user= 'root',
-    password= 'makanayam',
+    password= '######',
     database='doraemon',
     auth_plugin='mysql_native_password'
 )
